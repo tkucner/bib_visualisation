@@ -1,0 +1,17 @@
+Assign=1
+Concat=2
+Comma=3
+CloseBrace=4
+QuotedContent=5
+BracedContent=6
+StringType=7
+PreambleType=8
+CommentType=9
+Type=10
+Number=11
+Name=12
+Spaces=13
+'='=1
+'#'=2
+','=3
+'}'=4
